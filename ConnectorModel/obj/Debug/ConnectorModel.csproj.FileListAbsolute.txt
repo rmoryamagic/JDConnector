@@ -1,0 +1,12 @@
+D:\XPC\JDE\JDConnector\ConnectorModel\bin\Debug\ConnectorModel.dll
+D:\XPC\JDE\JDConnector\ConnectorModel\bin\Debug\ConnectorModel.pdb
+D:\XPC\JDE\JDConnector\ConnectorModel\obj\Debug\ConnectorModel.csprojAssemblyReference.cache
+D:\XPC\JDE\JDConnector\ConnectorModel\obj\Debug\ConnectorModel.csproj.CoreCompileInputs.cache
+D:\XPC\JDE\JDConnector\ConnectorModel\obj\Debug\ConnectorModel.dll
+D:\XPC\JDE\JDConnector\ConnectorModel\obj\Debug\ConnectorModel.pdb
+C:\Users\admin\Desktop\JDConnector\ConnectorModel\bin\Debug\ConnectorModel.dll
+C:\Users\admin\Desktop\JDConnector\ConnectorModel\bin\Debug\ConnectorModel.pdb
+C:\Users\admin\Desktop\JDConnector\ConnectorModel\obj\Debug\ConnectorModel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\JDConnector\ConnectorModel\obj\Debug\ConnectorModel.dll
+C:\Users\admin\Desktop\JDConnector\ConnectorModel\obj\Debug\ConnectorModel.pdb
+C:\Users\admin\Desktop\JDConnector\ConnectorModel\obj\Debug\ConnectorModel.csprojAssemblyReference.cache
